@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Here's the link for the solution](https://github.com/dogukan0055/social-proof-section)
-- Live Site URL: [Here's the link for the live version](https://your-live-site-url.com)
+- Live Site URL: [Here's the link for the live version](https://dogukan0055.github.io/social-proof-section/)
 
 ## My process
 
